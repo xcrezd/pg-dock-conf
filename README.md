@@ -1,4 +1,4 @@
-# pg-dock-config
+# pg-dock-conf
 
 Template for postgres master-slave replication.
 
